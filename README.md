@@ -1,5 +1,5 @@
 # stage-operator
-// TODO(user): Add simple overview of use/purpose
+simple namespace creator based on a stage definition with CRD
 
 ## Description
 // TODO(user): An in-depth paragraph about your project and overview of use
